@@ -27,4 +27,4 @@ version 1.00:
 
 -increased station health, regeneration, and engagement ranges to 15km
   
-  -creates and "area of denial" effect for later campaign missions where the game engine generates rediculous amounts of units;                "matching" the difficulty of your available units
+  -creates an "area of denial" effect for later campaign missions where the game engine generates rediculous amounts of units;                "matching" the difficulty of your available units
