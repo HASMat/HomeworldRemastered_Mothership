@@ -3,6 +3,10 @@ Campaign mothership modification for Homeworld Classic: Remastered
 
 Homeworld Campaign; Singleplayer; Mothership modification
 
+install:
+
+-all folders are installed directly to \Data folder in the main homeworld directory. I'll make a modified .big file or whatever is necessary if i ever decide to upload to the steam workshop.
+
 all files are written in lua, simple modifications made to mothership weapon types, health, regeneration, and fun tweaks to the junkyarddog
 
 files are pulled directly from .big files in Homeworld\HomeworldRM\DataUpdates  and installed to Homeworld\HomeworldRM\Data
