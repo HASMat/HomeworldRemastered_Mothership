@@ -1,0 +1,12 @@
+Number_Properties_Priority = 1.0	-- Default - on conflict higher is used...
+
+Number_Properties = {
+	maxhealth = 995000,
+	prmSensorRange = 10000,
+	secSensorRange = 10500,
+}
+
+String_Properties_Priority = 1.0
+
+String_Properties = {
+}

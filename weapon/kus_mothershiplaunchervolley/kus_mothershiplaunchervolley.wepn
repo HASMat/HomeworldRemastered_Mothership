@@ -1,0 +1,17 @@
+StartWeaponConfig(NewWeaponType,"Fixed","Missile","Kus_MissileVolley","Normal",800,15000,0,0,0,0,5,1,0,0.06,0.6,0.4,1,0,0,0,0.1,"Normal",1,0,10);
+AddWeaponResult(NewWeaponType,"Hit","DamageHealth","Target",1100,1100,"");
+setPenetration(NewWeaponType,5*2,0.5,
+{Unarmoured=0.6},
+{LightArmour=0.7},
+{MediumArmour=0.8},
+{HeavyArmour=0.9},
+{TurretArmour=0.35},
+{MineArmour=0.25},
+{ResArmour=0.5},
+{PlanetKillerArmour=0});
+setAccuracy(NewWeaponType,1,
+{Fighter=1.00},
+{Corvette=1.00},
+{munition=0});
+setAngles(NewWeaponType,240,0,0,0,0);
+setMiscValues(NewWeaponType,0.25,0.25);
