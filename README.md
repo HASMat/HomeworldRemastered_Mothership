@@ -11,6 +11,7 @@ any ships, weapon types, or weapons not directly used by the game engine in the 
 
 Must use launch options to force .big file overrides.
 Use these launcher options:
+
 -dlccampaign HW1Campaign.big -campaign HomeworldClassic -moviepath DataHW1Campaign -overrideBigFile -luatrace
 
 version 1.00:
